@@ -4,10 +4,8 @@ public class Omar {
         System.out.println("Howdy!");
 
 
-
         System.out.println("Hi");
 
-        System.out.println("To get a conflict");
-
+        System.out.println("let do");
     }
 }
