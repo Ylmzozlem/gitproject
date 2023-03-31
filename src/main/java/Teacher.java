@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Teacher {
+public class Teacher {
+
 }
