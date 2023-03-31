@@ -5,5 +5,7 @@ public class Omar {
 
 
         System.out.println("Hi");
+
+        System.out.println("let do");
     }
 }
